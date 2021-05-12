@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidsonromero (Davi)
 - 👀 I’m interested in get a job as a programmer
-- 🌱 I’m currently learning some JavaScript frameworks and Laravel for PHP
+- 🌱 I’m currently learning some JavaScript frameworks, node js and Laravel for PHP
 - 💞️ I’m looking to collaborate on any project I like
 - 📫 How to reach me: davikromero@hotmail.com
 - 🗺️ Catanduva/SP/Brazil
