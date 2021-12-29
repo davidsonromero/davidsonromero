@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @davidsonromero (Davi)
+- 👋 Hi, I’m @davidsonromero (Davi Kock Romero)
 - 👀 I’m interested in get a job as a programmer
-- 🌱 I’m currently learning some JavaScript frameworks, node js and Laravel for PHP
-- 💞️ I’m looking to collaborate on any project I like
+- 🌱 I’m currently learning Node.JS
 - 📫 How to reach me: davikromero@hotmail.com
 - 🗺️ Catanduva/SP/Brazil
 - Languages: Portuguese, English, Spanish (reading only) and German (learning)
