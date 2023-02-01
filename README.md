@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidsonromero (Davi Kock Romero)
-- 👀 I’m interested in get a job as a programmer
-- 🧠 I’m currently learning Node.JS and Java
-- 📚 1st year of software engineering
+- 🧠 I’m currently learning C#
+- 📚 2nd year of software engineering
 - 📫 How to reach me: davikromero@hotmail.com
 - 🗺️ Catanduva/SP/Brazil
 - Languages: Portuguese, English, Spanish (reading only) and German (learning)
