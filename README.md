@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidsonromero (Davi Kock Romero)
-- 🧠 I’m currently learning C#
+- 🧠 I’m currently learning React.js
 - 📚 2nd year of software engineering
 - 📫 How to reach me: davikromero@hotmail.com
 - 🗺️ Catanduva/SP/Brazil
