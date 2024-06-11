@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidsonromero (Davi Kock Romero)
+- 👋 Hi, I’m Davi K. Romero
 - 🧠 I’m currently learning Java
 - 📚 3rd year of software engineering graduation
 - 📫 How to reach me: E-mail: davikockromero@icloud.com | Instagram: @davik_romero
