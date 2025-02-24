@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davi K. Romero
 - 🧠 I’m currently learning Java
-- 📚 3rd year of software engineering graduation
+- 📚 4th year of software engineering graduation
 - 📫 How to reach me: E-mail: davikockromero@icloud.com | Instagram: @davik_romero
 - 🗺️ Catanduva/SP/Brazil
 - Languages: Portuguese, English, Spanish (reading only) and German (learning)
