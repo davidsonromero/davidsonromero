@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davi K. Romero
+- 👋 Hi, I’m Davi
 - 🧠 I’m currently learning .NET and Software Architechture
 - 📚 4th year of software engineering graduation
 - 📫 How to reach me: E-mail: davikockromero@icloud.com
